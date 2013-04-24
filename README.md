@@ -1,4 +1,4 @@
-introducing_rails
+Introducing Rails
 =================
 
 Presentation about Rails for Rails Girls Campina Grande
